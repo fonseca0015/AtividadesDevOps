@@ -26,7 +26,7 @@ Este relatório descreve os procedimentos práticos executados na **Tarefa 03**,
 A solução adotada foi o template *Landy*, uma landing page responsiva desenvolvida em **React.js**, **TypeScript** e **Node.js**. O código-fonte foi clonado, configurado no ambiente local de desenvolvimento, versionado no **GitHub** e integrado à plataforma de hospedagem em nuvem **Vercel** para implantações automatizadas baseadas em gatilhos de commit.
 
 > **🌐 Referências do Projeto:**
-> - **Repositório da Aplicação (GitHub):** [https://github.com/fonseca0015/ProjetoGitTemplate](https://github.com/fonseca0015/ProjetoGitTemplate)
+> - **Repositório da Aplicação (GitHub):** [https://github.com/fonseca0015/Tarefa03DevOps](https://github.com/fonseca0015/Tarefa03DevOps)
 > - **Ambiente em Produção (Vercel):** [https://projeto-git-template-7s74jspc2-fatec1.vercel.app](https://projeto-git-template-7s74jspc2-fatec1.vercel.app)
 > - **Template Base (Repositório Original):** [https://github.com/Adrinlol/landy-react-template](https://github.com/Adrinlol/landy-react-template)
 
@@ -67,7 +67,7 @@ npm start
 Configurou-se o repositório remoto sob o controle da equipe e realizou-se a publicação das alterações na branch principal (`main`):
 
 ```bash
-git remote set-url origin https://github.com/fonseca0015/ProjetoGitTemplate.git
+git remote set-url origin https://github.com/fonseca0015/Tarefa03DevOps.git
 git branch -M main
 git add .
 git commit -m "feat: configuracao inicial da landing page a partir do template"

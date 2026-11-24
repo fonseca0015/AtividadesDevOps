@@ -95,7 +95,7 @@ A Vercel destaca-se pelo deploy automatizado de aplicações front-end e estáti
 
 ## 7. Repositório e Artefatos da Atividade
 
-- **Repositório da Atividade:** [https://github.com/fonseca0015/LivrariaDevOps](https://github.com/fonseca0015/LivrariaDevOps)
+- **Repositório da Atividade:** [https://github.com/fonseca0015/Tarefa03DevOps](https://github.com/fonseca0015/Tarefa03DevOps)
 - **Documentação Técnica:** Inclusa no repositório do projeto.
 
 ---
