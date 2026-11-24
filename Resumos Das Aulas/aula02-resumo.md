@@ -95,7 +95,7 @@ A Vercel destaca-se pelo deploy automatizado de aplicações front-end e estáti
 
 ## 7. Repositório e Artefatos da Atividade
 
-- **Repositório da Atividade:** [https://github.com/nicollylemos/LivrariaDevOps](https://github.com/nicollylemos/LivrariaDevOps)
+- **Repositório da Atividade:** [https://github.com/fonseca0015/LivrariaDevOps](https://github.com/fonseca0015/LivrariaDevOps)
 - **Documentação Técnica:** Inclusa no repositório do projeto.
 
 ---
@@ -103,7 +103,6 @@ A Vercel destaca-se pelo deploy automatizado de aplicações front-end e estáti
 ## 8. Integrantes da Equipe
 
 - Gabriel Fonseca
-- Nicolly Lemos
 - Rafaela Mansano
 - Karina de Moraes
 
