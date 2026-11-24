@@ -16,11 +16,11 @@ Este documento reúne e organiza todos os projetos, repositórios de entrega e a
 
 ### Tarefa 05 — Automação de Workflow com GitHub Marketplace Actions
 - **Objetivo:** Planejamento e construção de uma esteira no GitHub Actions aproveitando 3 Actions comunitárias do marketplace, garantindo execução automatizada em fases de montagem, validação e entrega.
-- **Repositório da Aplicação:** [fonseca0/projetodevopspipeline](https://github.com/fonseca0/projetodevopspipeline)
+- **Repositório da Aplicação:** [fonseca0015/projetodevopspipeline](https://github.com/fonseca0015/projetodevopspipeline)
 
 ### Tarefa 06 — Pipeline de CI no Gatilho Push e Estudo de Repositórios Públicos
 - **Objetivo:** Implementação de pipeline orientada a eventos de push na branch principal (`main`), aliada ao estudo analítico da engenharia de CI em grandes ecossistemas abertos (Vue.js, Spring Boot e NestJS).
-- **Repositório da Aplicação:** [fonseca0/projetodevopspipeline](https://github.com/fonseca0/projetodevopspipeline)
+- **Repositório da Aplicação:** [fonseca0015/projetodevopspipeline](https://github.com/fonseca0015/projetodevopspipeline)
 
 ### Tarefa 07 — Suíte de Testes Automatizados Integrada à Pipeline
 - **Objetivo:** Desenvolvimento de testes em múltiplas camadas (isolados/unitários, integrados e de desempenho) associados a uma esteira declarativa em `.github/workflows/` para bloquear regressões antes de qualquer liberação.
@@ -38,7 +38,7 @@ Este documento reúne e organiza todos os projetos, repositórios de entrega e a
 | :--- | :--- | :--- |
 | **Tarefa 02** | Livraria Web (Versionamento, Commits e Tags) | [`nicollylemos/LivrariaDevOps`](https://github.com/nicollylemos/LivrariaDevOps) |
 | **Tarefa 03** | Aplicação React (Template + Deploy na Vercel) | [`nicollylemos/ProjetoGitTemplate`](https://github.com/nicollylemos/ProjetoGitTemplate) |
-| **Tarefa 05** | Pipeline com 3 Actions do GitHub Marketplace | [`fonseca0/projetodevopspipeline`](https://github.com/fonseca0/projetodevopspipeline) |
-| **Tarefa 06** | CI Automática no Push da Main e Estudo de Repositórios | [`fonseca0/projetodevopspipeline`](https://github.com/fonseca0/projetodevopspipeline) |
+| **Tarefa 05** | Pipeline com 3 Actions do GitHub Marketplace | [`fonseca0015/projetodevopspipeline`](https://github.com/fonseca0015/projetodevopspipeline) |
+| **Tarefa 06** | CI Automática no Push da Main e Estudo de Repositórios | [`fonseca0015/projetodevopspipeline`](https://github.com/fonseca0015/projetodevopspipeline) |
 | **Tarefa 07** | Pipeline com Validação de Testes Automatizados | [`nicollylemos/Atividade07DevOps`](https://github.com/nicollylemos/Atividade07DevOps) |
 | **Tarefa 09** | Documentação Técnica e README de Projeto (PWA) | [`tutuca07segundo/EcommercePWA`](https://github.com/tutuca07segundo/EcommercePWA) |

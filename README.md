@@ -10,7 +10,7 @@ Repositório dedicado ao acompanhamento, documentação e consolidação das ati
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
 - **Disciplina:** Integração e Entrega Contínua (DevOps)
 - **Docente:** Prof. Me. Deivison S. Takatu
-- **Estudante / Autor:** Gabriel Fonseca ([@fonseca0](https://github.com/fonseca0))
+- **Estudante / Autor:** Gabriel Fonseca ([@fonseca0015](https://github.com/fonseca0015))
 
 ---
 
